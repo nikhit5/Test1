@@ -41,7 +41,7 @@ Squamous cell carcinoma
 Vascular lesion
 
 # Sample image from Dataset
-![](Aspose.Words.429a1947-0951-4918-9ae1-9cee5b3402be.001.png)
+![](Img/Aspose.Words.429a1947-0951-4918-9ae1-9cee5b3402be.001.png)
 
 # CNN Architecture Design
 To classify skin cancer using skin lesions images. To achieve higher accuracy and results on the classification task, I have built custom CNN model.
@@ -54,9 +54,9 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 - Activation Function(ReLU) - The rectified linear activation function or ReLU in short is a piecewise linear function that will output the input directly if it is positive, otherwise, it will output zero. The rectified linear activation function overcomes the vanishing gradient problem, allowing models to learn faster and perform better.
 - Activation Function(Softmax) - Softmax function is used as the activation function in the output layer of neural network models that predict a multinomial probability distribution. Advantage of using Softmax is the output probabilities range. The range will 0 to 1, and the sum of all the probabilities will be equal to one.
 # Model Architecture
-![](Aspose.Words.429a1947-0951-4918-9ae1-9cee5b3402be.002.png)
+![](Img/Aspose.Words.429a1947-0951-4918-9ae1-9cee5b3402be.002.png)
 # Model Evaluation
-![](Aspose.Words.429a1947-0951-4918-9ae1-9cee5b3402be.003.png)
+![](Img/Aspose.Words.429a1947-0951-4918-9ae1-9cee5b3402be.003.png)
 # Observations:
 - The training accuracy seems to be nearly **~92%**.
 - The validation accuracy is nearly **~80%**.
